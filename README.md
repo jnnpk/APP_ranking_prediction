@@ -1,4 +1,4 @@
-# MIS_AI
+# App Ranking
 
 This aims to investigate the key determinant factors of the success of mobile apps. 
 Specifically, our research question is whether the amount of superficial visual information provided by the platform affects the sales of the application. 
